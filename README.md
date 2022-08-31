@@ -1,6 +1,6 @@
 # Aplicación Foro
 ***
-<img src="client/src/img/temas.PNG" alt="página principal">
+<img src="client/src/img/temas.PNG" alt="página principal" width="600" heigth="600">
 Imagen 1: Página pricipal temas
 <br>
 <br>
@@ -26,9 +26,17 @@ Dentro de cada tema, los usuarios podrán crear hilos de conversación. Al acced
 + Mensajes:
 En cada hilo, los usuarios pueden escribir un número ilimitado de mensajes. Los mensajes se mostrarán ordenados desde el más antiguo al más reciente. Cada mensaje mostrará la imagen y el nombre del usuario que lo escribe, así como el propio texto. Para escribir un mensaje, únicamente se debe completar el texto, pero éste debe permitir formateado HTML por lo que se deberá utilizar un editor WYSIWYG. Una vez escrito el mensaje, éste no podrá ser ni editado ni eliminado.
 
-<img src="client/src/img/hilos.PNG" alt="página principal" width="400" heigth="400">
+<img src="client/src/img/hilos.PNG" alt="página principal" width="600" heigth="600">
 Imagen 2: Página hilos
 <br>
+<br>
+
+## Tecnologías
+***
+Una lista de las tecnologías utilizadas en el proyecto:
+* React
+* Php
+* Javascript
 <br>
 
 ## Autores
