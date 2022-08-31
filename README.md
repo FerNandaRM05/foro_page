@@ -1,13 +1,12 @@
 # Aplicación Foro
 ***
+<img src="img/winjob.PNG" alt="diseño página principal">
+<br>
 Proyecto de dos semanas, en el cual se nos planteó el siguiente objetivo:
 
 ## DESCRIPCIÓN 
 ***
 En esta tarea se busca desarrollar una aplicación que simula el funcionamiento básico de un foro, en el que los usuarios podrán crear categorías de conversaciones, y escribir mensajes sobre un determinado tema.
-
-<img src="img/winjob.PNG" alt="diseño página principal">
-<br>
 
 ## REQUISITOS
 ***
