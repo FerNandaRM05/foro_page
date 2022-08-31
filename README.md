@@ -1,4 +1,4 @@
-# Aplicación Foro
+# APLICACION FORO
 ***
 <img src="client/src/img/temas.PNG" alt="página principal" width="600" heigth="600">
 Imagen 1: Página pricipal temas
@@ -6,11 +6,11 @@ Imagen 1: Página pricipal temas
 <br>
 Proyecto de dos semanas, en el cual se nos planteó el siguiente objetivo:
 
-## DESCRIPCIÓN 
+## Descripción
 ***
 En esta tarea se busca desarrollar una aplicación que simula el funcionamiento básico de un foro, en el que los usuarios podrán crear categorías de conversaciones, y escribir mensajes sobre un determinado tema.
 
-## REQUISITOS
+## Requisitos
 ***
 La aplicación debe contar con los siguientes aspectos:
 
