@@ -1,6 +1,8 @@
 # Aplicación Foro
 ***
-<img src="client/src/img/temas.PNG" alt="diseño página principal">
+<img src="client/src/img/temas.PNG" alt="página principal">
+<br>
+Página pricipal temas
 <br>
 Proyecto de dos semanas, en el cual se nos planteó el siguiente objetivo:
 
