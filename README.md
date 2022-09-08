@@ -43,6 +43,6 @@ Una lista de las tecnologías utilizadas en el proyecto:
 ***
 FerNandaRM05 - Fernanda<br>
 danielcasta0398 - Juan Daniel<br>
-ispipa - Ismael
+ispipa - Ismael<br>
 Rgildeprado - Raquel<br>
 <br>
